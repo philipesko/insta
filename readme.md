@@ -44,16 +44,3 @@ CREATE TABLE "message" (
 );
 ```
 
-## Work's with InstaPY Dashboard
-
-InstaDM works with an [modified version of InstaPy Dashboard](https://github.com/CamTosh/instapy-dashboard). 
-
-> [InstaPy Dashboard](https://github.com/converge/instapy-dashboard) is an Open Source project developed by @converge to visualize Instagram accounts progress and real-time InstaPy logs on the browser. 
-
-
-## Support
-
-
-<a href="https://www.paypal.me/camtosh">
-  <img width="40" hspace="0" alt="paypal.me/camtosh" src="https://how2db.com/wp-content/uploads/2017/04/PayPal-ME-300x300.jpg.png"/>
-Buy me a 🍺 </a>
